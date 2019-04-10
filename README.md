@@ -19,4 +19,5 @@ Class Distribution: 212 Malignant, 357 Benign
 Target class:
    - Malignant
    - Benign
+   
 The model used is in this case is SVM
